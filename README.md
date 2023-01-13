@@ -14,6 +14,7 @@
 ![img](img/img01.png)
 ![img](img/img02.png)
 ![img](img/img03.png)
+![img](img/img04.png)
 ---
     
 ### Задание 2
